@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/alpc/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/alpc/static/js/main.b589c40d.chunk.js",
+    "main.js.map": "/alpc/static/js/main.b589c40d.chunk.js.map",
+    "runtime-main.js": "/alpc/static/js/runtime-main.d272d153.js",
+    "runtime-main.js.map": "/alpc/static/js/runtime-main.d272d153.js.map",
+    "static/js/2.b74c8e5e.chunk.js": "/alpc/static/js/2.b74c8e5e.chunk.js",
+    "static/js/2.b74c8e5e.chunk.js.map": "/alpc/static/js/2.b74c8e5e.chunk.js.map",
+    "index.html": "/alpc/index.html",
+    "precache-manifest.962c0db52c3fe4cacb0c406276f66413.js": "/alpc/precache-manifest.962c0db52c3fe4cacb0c406276f66413.js",
+    "service-worker.js": "/alpc/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/alpc/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.b74c8e5e.chunk.js.LICENSE.txt": "/alpc/static/js/2.b74c8e5e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d272d153.js",
+    "static/js/2.b74c8e5e.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.b589c40d.chunk.js"
+  ]
+}
